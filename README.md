@@ -35,7 +35,7 @@ Esta aplicación Android está diseñada para gestionar la comunicación entre d
 
 5. Haz clic en el botón Run en Android Studio para compilar y ejecutar la aplicación.
 
-## Estructura del Proyecto
+## Funcionamiento del Proyecto
 1. En la Actividad Principal, el usuario ingresa su nombre en un campo de texto. Si el campo está vacío y se pulsa el botón para ir a la segunda actividad, la aplicación muestra un mensaje de error.
    
 2. Si el nombre está completo, se crea un Intent y se envía a la Segunda Actividad. Esta actividad recibe el nombre y muestra un mensaje de despedida personalizado.
