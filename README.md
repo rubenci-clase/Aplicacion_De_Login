@@ -2,6 +2,7 @@
 
 ## Descripción
 Esta aplicación Android está diseñada para gestionar la comunicación entre dos actividades. La Actividad principal permite al usuario ingresar un nombre, el cual se envía a una segunda actividad que muestra un mensaje de despedida personalizado. Además, la Actividad principal valida que el nombre haya sido ingresado antes de permitir la transición a la segunda actividad.
+
 ![image](https://github.com/user-attachments/assets/3a46f2bc-dff7-427e-b4e3-1015b2438d2f)
 
 ## Características
