@@ -25,7 +25,7 @@ Esta aplicación Android está diseñada para gestionar la comunicación entre d
 1. Clona o descarga el repositorio en tu máquina local.
    
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/rubenci-clase/Aplicacion_Para_Gestionar_La_Comunicacion_Entre_Dos_Actividades_Android.git
    ```
 2. Abre el proyecto en Android Studio.
 
